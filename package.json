@@ -1,0 +1,22 @@
+{
+  "name": "ldj-zip",
+  "version": "1.0.1",
+  "description": "ldj",
+  "main": "test.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/km20087/ldjzip.git"
+  },
+  "keywords": [
+    "zip"
+  ],
+  "author": "ldj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/km20087/ldjzip/issues"
+  },
+  "homepage": "https://github.com/km20087/ldjzip#readme"
+}
