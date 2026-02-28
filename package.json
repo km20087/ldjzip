@@ -1,10 +1,10 @@
 {
   "name": "ldj-zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ldj",
   "main": "test.js",
   "scripts": {
-    "test": "123"
+    "test": "111"
   },
   "repository": {
     "type": "git",
