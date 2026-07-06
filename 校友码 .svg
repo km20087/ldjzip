@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="306px" height="100px" viewBox="0 0 306 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>校友码 </title>
+    <defs>
+        <rect id="path-1" x="20" y="14" width="72" height="72" rx="36"></rect>
+        <filter x="-9.7%" y="-6.9%" width="119.4%" height="119.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.843137255   0 0 0 0 0.141176471   0 0 0 0 0.0823529412  0 0 0 0.0332756843 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="切图-设计稿确定-红色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="广文艺-校友卡申请页面" transform="translate(-389, -598)">
+            <g id="顶部" transform="translate(0, 128)">
+                <g id="校友码-" transform="translate(389, 470)">
+                    <path d="M16,0 L290,0 C298.836556,-1.623249e-15 306,7.163444 306,16 L306,84 C306,92.836556 298.836556,100 290,100 L16,100 C7.163444,100 1.082166e-15,92.836556 0,84 L0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 Z" id="矩形备份" fill="#FBE5E3"></path>
+                    <g id="矩形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.8" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="4.二维码" transform="translate(37, 31)" fill="#D72415" fill-rule="nonzero">
+                        <path d="M6.65,11.4 L6.65,6.65 L11.4,6.65 L11.4,11.4 L6.65,11.4 Z M19.95,19.95 L19.95,24.7 L24.7,24.7 L24.7,19.95 L19.95,19.95 Z M19.95,38 L24.7,38 L24.7,33.25 L19.95,33.25 L19.95,38 Z M29.45,24.7 L24.7,24.7 L24.7,33.25 L29.45,33.25 L29.45,24.7 Z M33.725,33.725 L29.45,33.725 L29.45,38 L38,38 L38,29.45 L33.725,29.45 L33.725,33.725 L33.725,33.725 Z M33.25,24.7 L38,24.7 L38,19.95 L33.25,19.95 L33.25,24.7 L33.25,24.7 Z M13.5375,0.00273858292 L18.05,0.00273858292 L18.05,18.05 L0,18.05 L0,0 L13.5375,0 L13.5375,0.00273858292 Z M13.3,4.75 L4.75,4.75 L4.75,13.3 L13.3,13.3 L13.3,4.75 Z M11.4,31.35 L11.4,26.6 L6.65,26.6 L6.65,31.35 L11.4,31.35 Z M13.5375,19.95 L18.05,19.95 L18.05,38 L0,38 L0,19.95 L13.5375,19.95 Z M13.3,24.7 L4.75,24.7 L4.75,33.25 L13.3,33.25 L13.3,24.7 L13.3,24.7 Z M31.35,11.4 L31.35,6.65 L26.6,6.65 L26.6,11.4 L31.35,11.4 L31.35,11.4 Z M37.9945203,0 L37.9945203,18.05 L19.95,18.05 L19.95,0 L38,0 L37.9945203,0 Z M33.25,4.75 L24.7,4.75 L24.7,13.3 L33.25,13.3 L33.25,4.75259563 L33.25,4.75 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
